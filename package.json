@@ -2,6 +2,7 @@
     "name": "@panzi/isomorphic-webcrypto",
     "version": "1.0.0",
     "description": "Expose the WebCrypto object in browser and NodeJS including types.",
+    "author": "Mathias Panzenböck",
     "main": "./index.js",
     "module": "./index.js",
     "types": "index.d.ts",
