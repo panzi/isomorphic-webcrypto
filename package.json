@@ -1,0 +1,20 @@
+{
+    "name": "@panzi/isomorphic-webcrypto",
+    "version": "1.0.0",
+    "description": "Expose the WebCrypto object in browser and NodeJS including types.",
+    "main": "./index.js",
+    "module": "./index.js",
+    "types": "index.d.ts",
+    "files": [
+        "index.js",
+        "index.d.ts"
+    ],
+    "keywords": [
+        "isomorphic",
+        "webcrypto"
+    ],
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.11.28"
+    }
+}
