@@ -5,6 +5,11 @@
     "main": "./index.js",
     "module": "./index.js",
     "types": "index.d.ts",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/panzi/isomorphic-webcrypto.git"
+    },
     "files": [
         "index.js",
         "index.d.ts"
@@ -14,6 +19,10 @@
         "webcrypto"
     ],
     "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/panzi/isomorphic-webcrypto/issues"
+    },
+    "homepage": "https://github.com/panzi/isomorphic-webcrypto",
     "devDependencies": {
         "@types/node": "^20.11.28"
     }
